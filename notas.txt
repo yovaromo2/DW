@@ -1,0 +1,13 @@
+1. Desargar GIT
+2. Crearon projecto
+3. git init (Se hace una vez)
+4. git add .   ( Agregando todos los archivos para una nueva versión)
+5. git commit -m "Mensaje" -> Se hace una versión
+
+6. Crearon cueenta en Git Hub (Repositorio en la nube)
+7. Crearon un Repositorio en la nueva
+
+8. git add remote ruta_url
+9. git branch -M main (Renombrar master a main)
+10. git push -u progin main (Sincronizar repositorio local con Remoto)
+
