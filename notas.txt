@@ -1,5 +1,5 @@
 1. Desargar GIT
-2. Crearon projecto
+2. Crearon proyecto
 3. git init (Se hace una vez)
 4. git add .   ( Agregando todos los archivos para una nueva versión)
 5. git commit -m "Mensaje" -> Se hace una versión
